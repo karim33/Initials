@@ -1,3 +1,9 @@
+#__ Author __: 'Abdulkerim Abate'
+# __Version __: '1.0'
+# __Date: 04/28/2017
+# Assignment: get_initials
+
+
 def get_initials(fullname):
     """ Given a person's name, returns the person's initials (uppercase) """
     # TODO your code here
